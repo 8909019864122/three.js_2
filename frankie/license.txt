@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frankie
+* source:	https://sketchfab.com/3d-models/frankie-401d507009944f0ebe5fbece21058703
+* author:	CLfanmodel (https://sketchfab.com/jamescontreras2001)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frankie" (https://sketchfab.com/3d-models/frankie-401d507009944f0ebe5fbece21058703) by CLfanmodel (https://sketchfab.com/jamescontreras2001) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
